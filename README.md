@@ -1,3 +1,4 @@
 # kurrbby-public
-Public facing repository
+Public facing repository.
 
+Python & R
