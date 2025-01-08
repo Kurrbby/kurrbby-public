@@ -1,2 +1,3 @@
 # kurrbby-public
-Public facing repo
+Public facing repository
+
