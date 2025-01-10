@@ -1,4 +1,5 @@
 # Risk Management Functions
+# % Returns, Volatility, Garch, VaR
 
 import numpy as np
 import pandas as pd
