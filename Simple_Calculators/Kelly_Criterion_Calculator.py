@@ -4,7 +4,7 @@ def kelly_criterion_gambling(probability, odds):
     
     Parameters:
         probability (float): Probability of winning (0 < p <= 1).
-        odds (float): Decimal odds (e.g., 3 for 3-to-1 odds).
+        odds (float): Decimal odds (e.g., 3 for 3-to-1 odds). (note decimal odds NOT American odds)
     
     Returns:
         float: Optimal fraction of capital to wager.
