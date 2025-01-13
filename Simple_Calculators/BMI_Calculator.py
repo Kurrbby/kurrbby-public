@@ -53,13 +53,13 @@ def main():
     
     # Provide category feedback
     if bmi < 18.5:
-        print("BMI: ", bmi, ". You are underweight.")
+        print("BMI: ", round(bmi, 2), ". You are underweight.")
     elif 18.5 <= bmi < 24.9:
-        print("BMI: ", bmi, ". You are in the normal weight range.")
+        print("BMI: ", round(bmi, 2), ". You are in the normal weight range.")
     elif 25 <= bmi < 29.9:
-        print("BMI: ", bmi, ". You are overweight.")
+        print("BMI: ", round(bmi, 2), ". You are overweight.")
     else:
-        print("BMI: ", bmi, ". You are in the obesity range.")
+        print("BMI: ", round(bmi, 2), ". You are in the obesity range.")
 
 
 # Run the program
